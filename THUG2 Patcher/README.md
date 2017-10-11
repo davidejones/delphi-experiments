@@ -1,1 +1,1 @@
-![alt tag](https://raw.githubusercontent.com/davidejones/delphi-experiments/master/THUG2 Patcher/thug2patcher.JPG)
+![alt tag](https://raw.githubusercontent.com/davidejones/delphi-experiments/master/THUG2%20Patcher/thug2patcher.JPG)
