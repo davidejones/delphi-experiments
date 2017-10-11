@@ -1,0 +1,1 @@
+![alt tag](https://raw.githubusercontent.com/davidejones/delphi-experiments/master/writebmp/writebmp.JPG)
